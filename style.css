@@ -1,0 +1,11 @@
+form {
+  margin: 10px;
+}
+.input-number {
+  display: block;
+  margin-bottom: 10px;
+}
+.output-number {
+  display: block;
+  margin-bottom: 10px;
+}
